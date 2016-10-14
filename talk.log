@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.6)  13 OCT 2016 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.6)  13 OCT 2016 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1190,6 +1190,57 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 6.0pt on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
+4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.5pt on input line 44.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 44.
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Try loading font information for U+eur on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 44.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 44.
+
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
@@ -1198,7 +1249,6 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 48.
 LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 48.
 
-
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
@@ -1206,75 +1256,37 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 6.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 48.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 48.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 48.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 4.0pt on input line 48.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/NGC5548_Variability.jpg, id=115, 712.6625pt x 501.875pt>
+<images/NGC5548_Variability.jpg, id=116, 712.6625pt x 501.875pt>
 File: images/NGC5548_Variability.jpg Graphic file (type jpg)
 
 <use images/NGC5548_Variability.jpg>
 Package pdftex.def Info: images/NGC5548_Variability.jpg used on input line 83.
 (pdftex.def)             Requested size: 178.16519pt x 125.46843pt.
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 8
-3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
-File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
-)
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 83.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 83.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 83.
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 83.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
-File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 83.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 83.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-LaTeX Font Info:    Try loading font information for U+eur on input line 83.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
-File: ueur.fd 2013/01/14 v3.01 Euler Roman
-)
 Overfull \vbox (2.39581pt too high) detected at line 83
  []
 
 [2
 
  <./images/NGC5548_Variability.jpg>]
-<images/agn_sed.jpg, id=153, 1576.89125pt x 1187.43625pt>
+<images/agn_sed.jpg, id=154, 1576.89125pt x 1187.43625pt>
 File: images/agn_sed.jpg Graphic file (type jpg)
 
 <use images/agn_sed.jpg>
 Package pdftex.def Info: images/agn_sed.jpg used on input line 209.
 (pdftex.def)             Requested size: 157.69836pt x 118.75058pt.
- <images/AGNModel.jpg, id=155, 711.65875pt x 602.25pt>
+ <images/AGNModel.jpg, id=156, 711.65875pt x 602.25pt>
 File: images/AGNModel.jpg Graphic file (type jpg)
 
 <use images/AGNModel.jpg>
@@ -1298,7 +1310,7 @@ LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
 [3
 
  <./images/agn_sed.jpg> <./images/AGNModel.jpg>]
-<images/fluctuations.jpg, id=186, 240.9pt x 160.6pt>
+<images/fluctuations.jpg, id=187, 240.9pt x 160.6pt>
 File: images/fluctuations.jpg Graphic file (type jpg)
 
 <use images/fluctuations.jpg>
@@ -1354,23 +1366,10 @@ File: images/kplr006932990-1stIncr_3D.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/kplr006932990-1stIncr_3D.jpg used on input line
  541.
 (pdftex.def)             Requested size: 179.85901pt x 139.98792pt.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.5pt on input line 541.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 541.
+ [8
 
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 541.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 541.
-
-[8
-
- <./images/kplr006932990-1stIncr_3D.jpg>]
-<images/SF_Illustration.jpg, id=352, 1286.8075pt x 1287.81125pt>
+ <./images/kplr006932990-1stIncr_3D.jpg>] <images/SF_Illustration.jpg, id=352, 
+1286.8075pt x 1287.81125pt>
 File: images/SF_Illustration.jpg Graphic file (type jpg)
 
 <use images/SF_Illustration.jpg>
@@ -1530,7 +1529,7 @@ Package pdftex.def Info: images/Zw229-15_GF.jpg used on input line 960.
  [22
 
  <./images/Zw229-15_GF.jpg>]
-<images/Zw229-15_mockLC.jpg, id=800, 4679.4825pt x 2817.52625pt>
+<images/Zw229-15_mockLC.jpg, id=799, 4679.4825pt x 2817.52625pt>
 File: images/Zw229-15_mockLC.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_mockLC.jpg>
@@ -1539,7 +1538,7 @@ Package pdftex.def Info: images/Zw229-15_mockLC.jpg used on input line 989.
  [23
 
  <./images/Zw229-15_mockLC.jpg>]
-<images/K2Campaigns.jpg, id=831, 1016.89pt x 392.74pt>
+<images/K2Campaigns.jpg, id=830, 1016.89pt x 392.74pt>
 File: images/K2Campaigns.jpg Graphic file (type jpg)
 
 <use images/K2Campaigns.jpg>
@@ -1557,7 +1556,7 @@ Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1056.
  [25
 
  <./images/PowerOfSDSSK2.jpg>]
-<images/LC_2.jpg, id=895, 1003.75pt x 649.42625pt>
+<images/LC_2.jpg, id=894, 1003.75pt x 649.42625pt>
 File: images/LC_2.jpg Graphic file (type jpg)
  <use images/LC_2.jpg>
 Package pdftex.def Info: images/LC_2.jpg used on input line 1063.
@@ -1566,7 +1565,7 @@ Package pdftex.def Info: images/LC_2.jpg used on input line 1063.
 [26
 
  <./images/LC_2.jpg>]
-<images/beamingFactor.jpg, id=927, 4140.46875pt x 2685.03125pt>
+<images/beamingFactor.jpg, id=926, 4140.46875pt x 2685.03125pt>
 File: images/beamingFactor.jpg Graphic file (type jpg)
 
 <use images/beamingFactor.jpg>
@@ -1579,7 +1578,7 @@ Overfull \vbox (17.51282pt too high) detected at line 1087
 [27
 
  <./images/beamingFactor.jpg>]
-<images/beamedLC.jpg, id=958, 4403.45125pt x 2685.03125pt>
+<images/beamedLC.jpg, id=957, 4403.45125pt x 2685.03125pt>
 File: images/beamedLC.jpg Graphic file (type jpg)
 
 <use images/beamedLC.jpg>
@@ -1592,7 +1591,7 @@ Overfull \vbox (17.51282pt too high) detected at line 1111
 [28
 
  <./images/beamedLC.jpg>]
-<images/beamedPSD.jpg, id=989, 4141.4725pt x 2689.04625pt>
+<images/beamedPSD.jpg, id=988, 4141.4725pt x 2689.04625pt>
 File: images/beamedPSD.jpg Graphic file (type jpg)
 
 <use images/beamedPSD.jpg>
@@ -1601,7 +1600,7 @@ Package pdftex.def Info: images/beamedPSD.jpg used on input line 1122.
  [29
 
  <./images/beamedPSD.jpg>]
-<images/Hogg_lc.jpg, id=1020, 587.19376pt x 442.65375pt>
+<images/Hogg_lc.jpg, id=1018, 587.19376pt x 442.65375pt>
 File: images/Hogg_lc.jpg Graphic file (type jpg)
 
 <use images/Hogg_lc.jpg>
@@ -1659,15 +1658,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 2153.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2153.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2153.
 
+Package rerunfilecheck Info: File `talk.out' has not changed.
+(rerunfilecheck)             Checksum: ABD69FA5BF8A13D7999299281A6B7478;1036.
 
-
-Package rerunfilecheck Warning: File `talk.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `talk.out':
-(rerunfilecheck)             Before: D676604C40BAA152513B0B664F908508;1036
-(rerunfilecheck)             After:  ABD69FA5BF8A13D7999299281A6B7478;1036.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1678,44 +1671,35 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2153.
  ) 
 Here is how much of TeX's memory you used:
- 21572 strings out of 493029
- 391664 string characters out of 6136235
- 461714 words of memory out of 5000000
- 24374 multiletter control sequences out of 15000+600000
+ 21567 strings out of 493029
+ 391604 string characters out of 6136235
+ 461754 words of memory out of 5000000
+ 24372 multiletter control sequences out of 15000+600000
  85655 words of font info for 161 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,17n,60p,963b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation35} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.5.2.32} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.5.1.25} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/e
-nc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-o
-t1-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.e
-nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}</usr
-/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/sh
-are/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/pu
-blic/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rntxmi5.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/newtx/rtxmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/newtx/rtxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/
-rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on talk.pdf (34 pages, 23293597 bytes).
+ 49i,18n,60p,963b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texlive/texmf-dist/fonts
+/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/Or
+nementsADF.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf
+.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}</u
+sr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
+share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/
+public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rntxmi5.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/newtx/rtxmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/newtx/rtxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfont
+s/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on talk.pdf (34 pages, 23294562 bytes).
 PDF statistics:
- 1270 PDF objects out of 1440 (max. 8388607)
- 1166 compressed objects within 12 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 1266 PDF objects out of 1440 (max. 8388607)
+ 1162 compressed objects within 12 object streams
+ 88 named destinations out of 1000 (max. 500000)
  340 words of extra memory for PDF output out of 10000 (max. 10000000)
 
